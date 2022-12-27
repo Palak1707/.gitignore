@@ -1,0 +1,2 @@
+# .gitignore
+TestVagrant Coding Assesment 
